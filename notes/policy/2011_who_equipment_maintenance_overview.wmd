@@ -1,0 +1,41 @@
+---
+title: WHO — Medical equipment maintenance programme overview
+authors: ["World Health Organization (WHO)"]
+year: 2011
+source: WHO Technical Series
+url: https://www.who.int/publications/i/item/9789241501538
+tags: [WHO, 维护, 设备管理, 指南]
+---
+
+# 摘要
+WHO 的“Medical equipment maintenance programme overview”（2011）概述了医疗设备维护的原则与实施框架，适用于低中高收入国家。文档强调设备全生命周期管理、基于风险的维护计划、设备台账与信息系统（IMS）、人员培训与能力建设、备件与供应链、以及与采购和临床工作流的衔接。
+
+# 关键要点
+- 全生命周期视角：维护管理应贯穿从采购、安装、验收、日常维护、定期校准、维修到报废的全过程。 
+- 设备清册与信息系统：建立集中、结构化的设备台账（包含技术参数、维护记录、不良事件），并优先实现信息化管理以支持决策与监管。 
+- 基于风险的维护策略：对设备按临床风险与故障影响分级���关键/高风险设备优先），制定差异化的维护频率与响应机制。 
+- 人员与能力建设：强调生物医学工程师、设备操作人员与维护人员的培训体系与持续教育，明确岗位职责。 
+- 采购与维护联动：采购阶段应考虑维护需求（备件供应、维护工具、制造商支持、可维修性评估），避免日后维护成本激增。 
+- 备件与供应链管理：建议建立关键备件清单与本地化备件供应策略，缩短设备停机时间。 
+- 维护记录与不良事件：完善维护与故障记录，并将不良事件信息用于再评价与采购改进。 
+
+# 存在问题与挑战（文献总结）
+- 资源限制：低资源环境中缺乏维护资金、备件与合格技术人员，导致大量设备闲置或无法使用。 
+- 标准化与数据互通不足：不同机构间台账格式不统一，阻碍跨机构的数据共享与区域性维护支持。 
+- 制造商支持差异：部分设备制造商在低收入地区提供有限的技术支持与备件保障。 
+- 外包质量管理：外包维护若监管不到位，可能带来安全与合规风险。 
+
+# 实践建议（WHO 提示）
+- 建立国家/区域层面的设备维护支持中心，为基层医疗机构提供技术支持与备件服务。 
+- 推行统一的最低信息集（minimum dataset）用于设备台账，便于上报统计与监管。 
+- 在采购合同中明确可维修性、备件供应与维护责任，并考虑总持有成本（TCO）。 
+- 开展能力建设项目，培育本地生物医学工程人才与维护团队。
+
+# 关键摘录
+"Maintenance programmes should be integrated into national health system planning and budgeting to ensure sustainability and to maximize the utility of investments in medical equipment."（原文要点）
+
+# 参考（APA）
+World Health Organization. (2011). Medical equipment maintenance programme overview. https://www.who.int/publications/i/item/9789241501538
+
+# 获取说明
+公开可下载：WHO 官方出版物页面与 IRIS 平台。
