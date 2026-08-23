@@ -1,0 +1,22 @@
+---
+title: 临床医疗设备管理与维护保养 — 文献笔记索引
+authors: ["zhansh-2025", "Copilot"]
+year: 2026
+source: repository notes
+url: https://github.com/zhansh-2025/OpenMinis/research/policy_and_status.html
+tags: [政策, 管理, 设备维护, 索引]
+---
+
+# 文献笔记索引 — 政策/法规/标准与管理现状
+
+此索引汇总并链接首批已精读的政策与标准文献笔记（首批5篇）。每篇文献已在 notes/policy/ 目录下保存为 wmarkdown 笔记文件，包含 YAML 元数据、摘要、关键要点、问题与挑战、实践建议与摘录。
+
+已存笔记：
+
+- notes/policy/2021_nhc_clinical_use_management.wmd — 《医疗器械临床使用管理办法》（国家卫健委令第8号，2021）
+- notes/policy/2021_state_council_device_regulations.wmd — 《医疗器械监督管理条例》（国务院，2021修订）
+- notes/policy/2021_nhc_hospital_equipment_norms.wmd — 《综合医院医疗设备管理规范（试行）》（国家卫健委，2021）
+- notes/policy/2011_who_equipment_maintenance_overview.wmd — WHO: Medical equipment maintenance programme overview（2011）
+- notes/policy/2016_iso_13485.wmd — ISO 13485:2016 文档要点
+
+下一步：我将继续按批次（每组5篇）完成剩余15篇首阶段文献的精读与笔记，随后开始第二阶段（AI 应用专题）检索与笔记。
